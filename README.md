@@ -3,9 +3,9 @@
 My entry for make.fun's **news-image-20261123** bounty: one image that sums
 up the world's news of Monday 23 November 2026.
 
-[![Competition](https://make.fun/badge/news-image-20261123/sunqincang/news-image-20261123-entry/competition.svg)](https://make.fun/bounty/news-image-20261123)
-[![Rank](https://make.fun/badge/news-image-20261123/sunqincang/news-image-20261123-entry/rank.svg)](https://make.fun/bounty/news-image-20261123)
-[![Reward](https://make.fun/badge/news-image-20261123/sunqincang/news-image-20261123-entry/reward.svg)](https://make.fun/bounty/news-image-20261123)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/sunqincang/news-image-20261123-entry/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/sunqincang/news-image-20261123-entry/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 Bounty: https://make.fun/bounty/news-image-20261123
 
